@@ -19,7 +19,7 @@ No load balancers, no API gateway diagrams. Just the database thinking.
 ## Practice problems
 
 - 01 [Food Delivery Order System](01-food-delivery-order-system/) - completed
-- 02 Chat Messaging System - not started yet
+- 02 [Chat Messaging System](02-chat-messaging-system/) - completed
 - 03 Ticket Booking System - not started yet
 - 04 Ecommerce Order System - not started yet
 - 05 Video Learning Platform - not started yet
@@ -47,5 +47,6 @@ the interview trying to decide what to say next.
 - `design.md` — the full walkthrough, all 11 steps
 - `schema.sql` — the tables
 - `queries.sql` — the queries the design is built around
+- `diagrams.md` — useful diagrams for the schema and flows
 - `tradeoffs.md` — what I gave up, and why
 - `interview-answer.md` — the spoken version
