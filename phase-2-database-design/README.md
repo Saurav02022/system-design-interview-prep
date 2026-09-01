@@ -20,7 +20,7 @@ No load balancers, no API gateway diagrams. Just the database thinking.
 
 - 01 [Food Delivery Order System](01-food-delivery-order-system/) - completed
 - 02 [Chat Messaging System](02-chat-messaging-system/) - completed
-- 03 Ticket Booking System - not started yet
+- 03 [Ticket Booking System](03-ticket-booking-system/) - completed
 - 04 Ecommerce Order System - not started yet
 - 05 Video Learning Platform - not started yet
 
